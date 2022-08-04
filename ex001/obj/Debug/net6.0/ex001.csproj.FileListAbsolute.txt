@@ -1,0 +1,15 @@
+D:\programm\lecture\example\ex001\bin\Debug\net6.0\ex001.exe
+D:\programm\lecture\example\ex001\bin\Debug\net6.0\ex001.deps.json
+D:\programm\lecture\example\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+D:\programm\lecture\example\ex001\bin\Debug\net6.0\ex001.dll
+D:\programm\lecture\example\ex001\bin\Debug\net6.0\ex001.pdb
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.dll
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\refint\ex001.dll
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.pdb
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+D:\programm\lecture\example\ex001\obj\Debug\net6.0\ref\ex001.dll
