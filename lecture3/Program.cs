@@ -42,7 +42,7 @@ int Method3()
 
 //  view 4
 
-string Method4(int count, string c)
+string Method4(int count, char c)
 {
     int i = 0;
     string result = String.Empty;
@@ -55,7 +55,7 @@ string Method4(int count, string c)
     return result;
 }
 
-// string res = Method4(10 , "a");
+// string res = Method4(10 , 'a');
 // Console.WriteLine(res);
 
 
@@ -161,39 +161,39 @@ string Replace(string text, char oldValue, char newValue)
 // next task 3 solution 3
 
 
-int[] arr = { 1, 3, 6, 3, 4, 5, 6, 9, 7, 8, 3, 1, 4, 6 };
+// int[] arr = { 1, 3, 6, 3, 4, 5, 6, 9, 7, 8, 3, 1, 4, 6 };
 
-void PrintArray(int[] array)
-{
-    int count = array.Length;
+// void PrintArray(int[] array)
+// {
+//     int count = array.Length;
 
-    for (int i = 0; i < count; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
+//     for (int i = 0; i < count; i++)
+//     {
+//         Console.Write($"{array[i]} ");
+//     }
+//     Console.WriteLine();
+// }
 
 
-void SelectionSort(int[] array)
-{
+// void SelectionSort(int[] array)
+// {
 
-    for (int i = 0; i < array.Length - 1; i++)
-    {
-        int maxPosition = i;
+//     for (int i = 0; i < array.Length - 1; i++)
+//     {
+//         int maxPosition = i;
 
-        for (int j = i + 1; j < array.Length; j++)
-        {
-            if (array[j] > array[maxPosition]) maxPosition = j;
-        }
+//         for (int j = i + 1; j < array.Length; j++)
+//         {
+//             if (array[j] > array[maxPosition]) maxPosition = j;
+//         }
 
-        int temperary = array[i]; 
-        array[i] = array[maxPosition];
-        array[maxPosition] = temperary;
-    }
-}
+//         int temperary = array[i]; 
+//         array[i] = array[maxPosition];
+//         array[maxPosition] = temperary;
+//     }
+// }
 
-PrintArray(arr);
-SelectionSort(arr);
+// PrintArray(arr);
+// SelectionSort(arr);
 
-PrintArray(arr);
+// PrintArray(arr);
